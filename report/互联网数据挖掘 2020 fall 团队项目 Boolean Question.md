@@ -319,7 +319,7 @@ T5 想要将所有的NLP任务归为一统，以后所有的NLP任务，在其�
 
    运行报错，显存溢出：
 
-   ![image-20210103221645484](互联网数据挖掘 2020 fall 团队项目 Boolean Question.assets/image-20210103221645484.png)
+   <img src="互联网数据挖掘 2020 fall 团队项目 Boolean Question.assets/image-20210103221645484.png" alt="image-20210103221645484" />
 
 2. `T5-3b` 尝试复现论文结果：
 
