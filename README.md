@@ -9,7 +9,7 @@
 ## 💕 Contribution
 Any type of contribution is welcome, here are some examples of how you may contribute to this project:
 - Submit issues to report bugs or ask questions.
-- Propose pull requests to improve our code, add new models or improve the ensemble codes.
+- Propose pull requests to improve our code, add new models or improve the ensemble code.
 
 ## 🚧 License 
 [GPL-3.0 License](https://github.com/jszyxw/boolq-project/blob/main/LICENSE)
